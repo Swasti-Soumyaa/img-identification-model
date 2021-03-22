@@ -1,0 +1,66 @@
+body{
+    font-family:cursive;
+    background-color: rgb(5, 68, 64);
+}
+
+.header_div{
+    background-color: rgb(90, 197, 188);
+    color:rgb(5, 68, 64);
+}
+
+.header_div img{
+    width: 100px;
+}
+
+.main_div{
+    background:rgb(90, 197, 188);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.main_div label{
+    background:white ;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-shadow: 10px 5px 20px white;
+}
+
+#camera,#picture{
+    border: 1px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 10px 5px 20px white;
+}
+
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 10px 5px 20px white;
+    border: 1px solid white;
+}
+
+.footer_div{
+    margin-bottom:50px ;
+}
+
+.footer_div img{
+    width: 70px;
+}
+
+.footer_div h4{
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 10px 5px 20px white;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    line-height: 3;
+    text-align: center;
+}
